@@ -128,7 +128,6 @@ h1 span{
   background:rgba(51,51,51,0.5); /* Standard Off */
 }
 
-
 .start-page .content{
   position:relative;
   width:700px;
@@ -478,7 +477,7 @@ h1 span{
 
 
 .about-us .column-three{
-  margin-top:40px;
+  margin-top:22px;
   width:300px;
   float:left;
   margin-bottom:70px;
